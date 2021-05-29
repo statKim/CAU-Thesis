@@ -10,7 +10,7 @@
 
 
 ## 템플릿 종류
-- `cau-thesis_eng(title_kor)` : 표지는 한글, 본문은 영문 (사용 가능) 
+- `cau-thesis_eng(title_kor)` : 표지는 한글, 본문은 영문 (사용 가능) [Example](https://github.com/statKim/CAU-Thesis/blob/main/cau-thesis_eng(title_kor)/thesis.pdf)
 - `cau-thesis_eng` : 표지 및 본문 영문 (테스트중)
 - `cau-thesis_kor` : 표지 및 본문 한글 (개발중) 
 
